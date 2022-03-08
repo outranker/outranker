@@ -11,8 +11,8 @@ I'm Justin, a Backend Developer who knows ins and outs of everything related to 
 Quick Intro:
 
 - 💼 I’m currently working at [Global Outliers](https://globaloutliers.com)
+- 🤔 I’m currently working on my next billion dollar start-up idea
 - 🧑‍🎓 I’m currently learning Go
-- 🤔 I’m working on my next billion dollar start-up idea
 - 📫 How to reach me: f.javohirmirzo@gmail.com
 - 😄 Most of my google searches start with `how to ...`
 - ⚡ Fun fact: I am very good at Mario Kart 64
@@ -22,13 +22,12 @@ Quick Intro:
 <!-- TODO: Make technologies links takes you to repositories -->
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)](#)[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 
-### What tech/tools I am learning recently:
+### What tech/tools I have been learning recently:
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](#)[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](#)[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 
 <br />
-<br />
 
-#### Bizness
+#### Business
 - :paperclip: [Resume](https://drive.google.com/file/d/1cBsvMU68-8ZDgxtOhQYnuVNjUIfHfr5b/view?usp=sharing) and [Portfolio](https://drive.google.com/file/d/1G-XjW43RNVHaGBHHDHG6dpmhlvT1tVqy/view?usp=sharing)
 - :email: f.javohirmirzo@gmail.com
 
