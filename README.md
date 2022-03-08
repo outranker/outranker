@@ -25,7 +25,6 @@ Quick Intro:
 ### What tech/tools I have been learning recently:
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](#)[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](#)[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 
-<br />
 
 #### Business
 - :paperclip: [Resume](https://drive.google.com/file/d/1cBsvMU68-8ZDgxtOhQYnuVNjUIfHfr5b/view?usp=sharing) and [Portfolio](https://drive.google.com/file/d/1G-XjW43RNVHaGBHHDHG6dpmhlvT1tVqy/view?usp=sharing)
