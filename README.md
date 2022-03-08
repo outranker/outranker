@@ -1,7 +1,7 @@
 ## Hi I'm Justin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-I'm Justin, a Backend Developer who knows ins and outs of everything related to API but still struggles to center a div. I like automating stuff.
+I'm Justin, a Backend Developer who knows ins and outs of everything related to APIs but still struggles to center a div 😅. I like automating stuff.
 
 :mailbox: Reach me out!
 
