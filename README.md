@@ -27,7 +27,7 @@ Quick Intro:
 
 
 #### Business
-- :paperclip: [Resume](https://drive.google.com/file/d/1cBsvMU68-8ZDgxtOhQYnuVNjUIfHfr5b/view?usp=sharing) and [Portfolio](https://drive.google.com/file/d/1G-XjW43RNVHaGBHHDHG6dpmhlvT1tVqy/view?usp=sharing)
+- :paperclip: [Resume](https://drive.google.com/uc?export=download&id=1mVWaO5KgkE966o_1L_e7zqg6J6YM1Gb8) and [Portfolio](https://drive.google.com/uc?export=download&id=16v1YP-Ihen48LjPU1UWmJmiMPcRKuSoV)
 - :email: f.javohirmirzo@gmail.com
 
 
