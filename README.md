@@ -5,7 +5,7 @@ I'm Justin, a Backend Developer who knows ins and outs of everything related to 
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@outranker222-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/outranker222) [![Linkedin Badge](https://img.shields.io/badge/-Javohir-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javohir-mirzo-fazliddinov-a681a0234/) [![Mail Badge](https://img.shields.io/badge/-f.javohirmirzo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:f.javohirmirzo@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@outranker222-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/outranker222) [![Linkedin Badge](https://img.shields.io/badge/-Javohir-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javohir-mirzo-fazliddinov-b8b302b5/) [![Mail Badge](https://img.shields.io/badge/-f.javohirmirzo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:f.javohirmirzo@gmail.com)
 
 
 Quick Intro:
