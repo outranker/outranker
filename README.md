@@ -1,5 +1,6 @@
 ## Hi I'm Justin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foutranker%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 I'm Justin, a Backend Developer who knows ins and outs of everything related to APIs but still struggles to center a div 😅. I like automating stuff.
 
@@ -10,7 +11,7 @@ I'm Justin, a Backend Developer who knows ins and outs of everything related to 
 
 Quick Intro:
 
-- 💼 I’m currently working at [Global Outliers](https://globaloutliers.com)
+- 💼 I’m currently working at [Crocus Energy](https://crocus.ai)
 - 🤔 I’m currently working on my next billion dollar start-up idea
 - 🧑‍🎓 I’m currently learning Go
 - 📫 How to reach me: f.javohirmirzo@gmail.com
